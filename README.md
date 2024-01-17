@@ -13,8 +13,8 @@ I'm a passionate Full Stack Web Developer with a keen interest in creating robus
 
  Projects
 
-- [Project 1: Hussain medical laboratory]
-- [Project 2: scool managment system]
+- [Project 1:  Medical Laboratory System]
+- [Project 2: School Managment System]
 
 
 # Hi, I'm [Muhmmad  Imran] - A Machine learning Expert 👨‍💻
