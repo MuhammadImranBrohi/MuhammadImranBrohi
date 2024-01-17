@@ -41,8 +41,8 @@ Feel free to reach out for discussions on data, machine learning, or anything in
 
 - LinkedIn: [Muhammad Imran]()
 - Email: m.imranbrohi2k22@gmail.com
-- - GitHub: [@MuhammadImranBroh]()
-<--- Twitter: Nill--->
+- GitHub: [@MuhammadImranBroh]()
+  
 Feel free to reach out if you have any questions or if you're interested in collaborating on exciting projects!
 
 
