@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MuhammadImranBrohi
-- 🌱 I’m currently learning . Advance machine learning Techniqs,web scapping methods using python 
+Hi, I’m @MuhammadImranBrohi
+I’m currently learning . Advance machine learning Techniqs,web scrapping methods using python 
   
 I'm a passionate Full Stack Web Developer with a keen interest in creating robust and user-friendly web applications. My skills span both front-end and back-end technologies, allowing me to bring ideas to life with a seamless user experience.
 
@@ -11,13 +11,9 @@ I'm a passionate Full Stack Web Developer with a keen interest in creating robus
 - Version Control: Git,Github
 - Tools: VSCode, npm, Webpack
 
- Projects
-
-- [Project 1:  Medical Laboratory System]
-- [Project 2: School Managment System]
-
-
-# Hi, I'm [Muhmmad  Imran] - A Machine learning Expert 👨‍💻
+ 
+ Hi, I'm Muhmmad  Imran
+ A Machine learning Expert 
 
 I'm a data enthusiast with a knack for extracting valuable insights from complex datasets. From exploratory data analysis to machine learning model deployment, I thrive on turning raw data into actionable intelligence.
 
@@ -32,21 +28,16 @@ I'm a data enthusiast with a knack for extracting valuable insights from complex
 
  MAchine learning Projects
 
-[Project 1 ]: [NEtwork anomly Detection using python  ]  
-[project 2]: [movies and song recomdation Sytem using python ]
+Project 1 : NEtwork anomly Detection using python    
+project 2: movies and song recomdation Sytem using python 
 
 Feel free to reach out for discussions on data, machine learning, or anything in between!
 
  Let's Connect!
 
-- LinkedIn: [Muhammad Imran]()
+LinkedIn:https://www.linkedin.com/in/muhammad-imran-855418284
+
 - Email: m.imranbrohi2k22@gmail.com
-- GitHub: [@MuhammadImranBroh]()
+- GitHub: @MuhammadImranBroh
   
 Feel free to reach out if you have any questions or if you're interested in collaborating on exciting projects!
-
-
-<!---
-MuhammadImranBrohi/MuhammadImranBrohi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
